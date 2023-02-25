@@ -1,0 +1,25 @@
+.login{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 30%;
+    height: 50%;
+    background: #41b182;
+    border-radius: 20%;
+}
+
+.login label{
+    position: absolute;
+    left: 40%;
+   
+}
+.login input{
+position: absolute;
+left: 30%;
+
+}
+.login button{
+    position: absolute;
+    left: 45%;
+    top: 40%;
+}
